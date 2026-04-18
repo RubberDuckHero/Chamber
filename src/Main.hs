@@ -541,7 +541,7 @@ loadRoster fp = do
 
 main :: IO ()
 main = do
-  putStrLn "Bolt Action Lite List Builder"
+  putStrLn "Chamber: Bolt Action List Builder"
   putStrLn "=============================="
   mainLoop defaultRoster
 
